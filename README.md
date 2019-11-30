@@ -1,4 +1,4 @@
-# System Stats Recorder for (only Windows for now)
+# System Stats Recorder (only Windows for now)
 
 This simple tool records current CPU and memory usage to a csv file.
 
